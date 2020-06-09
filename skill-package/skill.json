@@ -18,7 +18,12 @@
       "distributionCountries": []
     },
     "apis": {
-      "custom": {}
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom",
+          "uri": "need a name"
+        }
+      }
     },
     "manifestVersion": "1.0"
   }
